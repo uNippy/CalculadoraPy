@@ -1,3 +1,2 @@
 # CalculadoraPy
-Calculadora com GUI Usando tkinter
-Open-Source
+Calculadora python com gui utilizando tkinter
