@@ -1,2 +1,2 @@
 # CalculadoraPy
-Calculadora com GUI
+Calculadora com GUI Usando tkinter
